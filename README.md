@@ -1,3 +1,3 @@
 # redmed
-for push and pull excersizes 
+for push and pull excersizes!
 test
