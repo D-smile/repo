@@ -10,3 +10,6 @@ Ali luktar skit
 = sant
 
 tis is a way to commit file
+
+
+big shits
